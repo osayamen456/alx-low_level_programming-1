@@ -1,8 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
- * main- entry point for program
- * 
- * Reurn:int 0 when done and n errors
+ *main- Serves as the entry point for the program
+ *
+ *Return: By default returns zero if no erros otherwise returns non-zero value.
  */
 int main(void)
 {
