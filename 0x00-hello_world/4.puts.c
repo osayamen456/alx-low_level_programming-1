@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * main:prints out a string 
+ * main- entry point for program
  * Description:program that prints out a string with a newline
  * Reurn:int 0 when done and n errors
  */
